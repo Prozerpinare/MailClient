@@ -1,0 +1,11 @@
+C:\Users\proze\source\repos\Почттовый_клиент\bin\Debug\netcoreapp3.1\Почттовый_клиент.exe
+C:\Users\proze\source\repos\Почттовый_клиент\bin\Debug\netcoreapp3.1\Почттовый_клиент.deps.json
+C:\Users\proze\source\repos\Почттовый_клиент\bin\Debug\netcoreapp3.1\Почттовый_клиент.runtimeconfig.json
+C:\Users\proze\source\repos\Почттовый_клиент\bin\Debug\netcoreapp3.1\Почттовый_клиент.runtimeconfig.dev.json
+C:\Users\proze\source\repos\Почттовый_клиент\bin\Debug\netcoreapp3.1\Почттовый_клиент.dll
+C:\Users\proze\source\repos\Почттовый_клиент\bin\Debug\netcoreapp3.1\Почттовый_клиент.pdb
+C:\Users\proze\source\repos\Почттовый_клиент\obj\Debug\netcoreapp3.1\Почттовый_клиент.csprojAssemblyReference.cache
+C:\Users\proze\source\repos\Почттовый_клиент\obj\Debug\netcoreapp3.1\Почттовый_клиент.AssemblyInfoInputs.cache
+C:\Users\proze\source\repos\Почттовый_клиент\obj\Debug\netcoreapp3.1\Почттовый_клиент.AssemblyInfo.cs
+C:\Users\proze\source\repos\Почттовый_клиент\obj\Debug\netcoreapp3.1\Почттовый_клиент.dll
+C:\Users\proze\source\repos\Почттовый_клиент\obj\Debug\netcoreapp3.1\Почттовый_клиент.pdb
